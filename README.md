@@ -81,7 +81,7 @@
 - Multiplicative attention balances good training performance and exceptional validation results. It also demonstrates the lowest validation perplexity, which is crucial for practical applications.
 
 ### Choosing Multiplicative Attention
-- Multiplicative attention is chosen as the best model because it achieves the best validation scores while being computationally efficient. Its consistent performance indicates robustness, making it a reliable choice for real-world translation tasks.
+- Multiplicative attention is chosen as the best model because it achieves the best validation scores while being computationally efficient.
 
 ---
 
