@@ -1,0 +1,2 @@
+Seq2SeqTransformer-multiplicative.pt filter=lfs diff=lfs merge=lfs -text
+param-multiplicative.pkl filter=lfs diff=lfs merge=lfs -text
