@@ -33,7 +33,7 @@
 - English (`ALT.en-my.en`) and Myanmar (`ALT.en-my.my`) text files were downloaded separately, with each containing 18,088 rows.  
 - The English and Myanmar sentences were extracted and combined into a single dataset.
 
-### Preprocessing
+### Data Preprocessing
 - After extracting sentences from both files, the dataset was split into:
   - Training set: 14,651 rows
   - Validation set: 1,628 rows
@@ -41,7 +41,7 @@
 - The final dataset was uploaded to Hugging Face as a public repository.
 
 ### Tokenizing
-- The `pyidaungsu` library was used for tokenizing Myanmar text.  
+- The [pyidaungsu](https://pypi.org/project/pyidaungsu/) library was used for tokenizing Myanmar text.
 - Tokenization is performed at the word level, ensuring each token accurately represents Myanmar words.  
 - Example:
   - Input: "ကျွန်တော် က တစ် ဦး တည်း သော ဒီ မှာ မွေး ကတည်းက နေ လာ တဲ့ ကိုယ်စားလှယ်လောင်း ဖြစ် ပါ တယ် ။"  
