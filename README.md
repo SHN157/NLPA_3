@@ -64,9 +64,9 @@
 - **[Multiplicative Attention Loss](images/multiplicative.png)**
 
 ### Attention Maps
-- **[General Attention Map](images/general.png)**
-- **[Additive Attention Map](images/additive.png)**
-- **[Multiplicative Attention Map](images/multiplicative.png)**
+- **[General Attention Map](images/general_att.png)**
+- **[Additive Attention Map](images/additive_attention.png)**
+- **[Multiplicative Attention Map](images/multiplicative_att.png)**
 
 ---
 
