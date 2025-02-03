@@ -92,7 +92,7 @@
 2. Navigate to the `app` folder.
 3. Run the command `streamlit run app.py`.
 4. Open [http://localhost:8501/](http://localhost:8501/) in your browser.
-5. Screenshots of testing the web app as below. **(images/sample.png)**
+5. **[Screenshots of testing the web app](images/sample.png)**
 
 
 ### Usage
